@@ -27,7 +27,7 @@ func (n *defaultNamer) NameSep(sep string) string {
 }
 
 func (n *defaultNamer) Name() string {
-	return n.NameSep(" ")
+	return n.NameSep("-")
 }
 
 // NewAlliterator returns a Namer that alliterates.
