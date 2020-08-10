@@ -9,8 +9,8 @@ import (
 // New returns a generic namer using the default word lists.
 func New() Namer {
 	return &defaultNamer{
-		Descriptor: Descriptors,
-		Noun:       Animals,
+		Descriptor: Types,
+		Noun:       Items,
 		r:          rand.New(rand.NewSource(time.Now().UnixNano())),
 	}
 }
