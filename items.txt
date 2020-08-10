@@ -23,7 +23,6 @@ cave
 charcoal
 chestplate
 chicken
-chicken
 clay
 clock
 coal
@@ -89,7 +88,6 @@ potato
 potion
 powder
 pufferfish
-pufferfish
 quartz
 quill
 rabbit
@@ -103,7 +101,6 @@ seeds
 shard
 sheep
 shovel
-shulker
 shulker
 silverfish
 skeleton
